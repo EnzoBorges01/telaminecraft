@@ -69,7 +69,7 @@ class _MinhaContaState extends State<MinhaConta> {
                       'Moedas: $userCoins MCoins',
                       style: TextStyle(
                         fontSize: 18,
-                        fontWeight: FontWeight.bold,
+                        fontWeight: FontWeight.normal,
                         color: Colors.orange,
                       ),
                     ),
